@@ -1,0 +1,17 @@
+{
+    "name": "saveraga_putra_snyders",
+    "description": "CI Rest Server",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Kacerguis",
+            "email": "saveragasnyders@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"saveraga\\RestServer\\": "src/"}
+    },
+    "require": {}
+}
